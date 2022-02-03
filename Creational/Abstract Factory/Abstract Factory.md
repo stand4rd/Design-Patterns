@@ -2,9 +2,7 @@
 
 ## Intent
 Create an interface for creating families of related OR dependent objects without providing concrete classes. 
-
-## Also Known As
-Kit
+AKA: **Kit**
 
 ## Applicability
 Use an Abstract Factory pattern when:
